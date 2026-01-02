@@ -1,1 +1,0 @@
-![Visitor Count](https://profile-counter.glitch.me/balitorius/count.svg)
