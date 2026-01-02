@@ -3,6 +3,8 @@
 👤 A teenager from Türkiye who wants to be a game dev. <br>
 💻 Currently learning HTML/CSS<br>
 💬 Currently translating applications or wikis to Turkish.
+
+![E-mail](https://img.shields.io/badge/Email-balitorius@gmail.com-red?style=flat&logo=gmail&labelColor=grey)
 <br>
 # 🗓️ Current Projects
 - Translating [Nerimity](https://nerimity.com) to Turkish.
@@ -12,3 +14,4 @@
 # 🌲 My Hobbies
 - Photography
 - Video Games
+
